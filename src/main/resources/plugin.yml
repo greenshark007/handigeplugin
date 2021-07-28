@@ -1,0 +1,13 @@
+name: Handige_plugin
+version: ${project.version}
+main: me.github.handige_plugin.Main
+api-version: 1.16
+authors: [ greenshark007 ]
+description: handige pl
+commands:
+  gmc:
+    description: creative mode
+  gms:
+    description: survival mode
+  gmsp:
+    description: spectator mode
