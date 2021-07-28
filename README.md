@@ -1,2 +1,2 @@
-# handigeplugin
-handige plugin voor voor admins
+# adminplugin
+this is a plugin for admins
