@@ -11,6 +11,7 @@ public final class Main extends JavaPlugin {
         getServer().getPluginCommand("gmc").setExecutor(new gmc());
         getServer().getPluginCommand("gmsp").setExecutor(new gmsp());
         getServer().getPluginCommand("gms").setExecutor(new gms());
+        getServer().getpluginCommand("invclear").setExecutor(new clearinvertory());
 
 
     }
